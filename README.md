@@ -1,1 +1,1 @@
-# pixyz_test_hp
+# pixyz.io
